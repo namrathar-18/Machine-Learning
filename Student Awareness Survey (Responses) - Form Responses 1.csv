@@ -1,0 +1,51 @@
+Timestamp,Registration Number,Email,Job role that you are interested in,What is the minimum salary of students placed through campus (In LPA..respond as a number),What is the maximum salary of students placed through campus (In LPA..respond as a number),What is the median salary of students placed through campus (In LPA..respond as a number),Which is the highest paying company that recruits from campus?,Rate your contribution towards extra curricular activities,Rate your technical competencies,What are your package expectations (LPA),Your CIA % of last semester,Your GPA of last semester,Your maximum attendance % till last semester,Internships Interests
+6/15/2026 9:25:39,2547231,kunnal.kunnal@mca.christuniversity.in,Software Development Engineer (SDE),3.5,12,6.8,Akasa air,4,3,8,69,3.4,98,"AI/ML, Web Development, Data Science/Analytics, DevOps/Cloud Computing"
+6/15/2026 9:53:54,2547237,omkaar.chakraborty@mca.christuniversity.in,Software Development Engineer (SDE),6,20,10,Fractal,4,4,12,75,3.69,95,"Web Development, DevOps/Cloud Computing, Mobile App Development"
+6/15/2026 9:54:56,2547203,abhinav.jain@mca.christuniversity.in,Full Stack Developer,4,12,6.3,Akasa Air,5,4,12,82,3.41,95,"AI/ML, Web Development, Mobile App Development"
+6/15/2026 9:55:17,2547228,jai.pareek@mca.christuniversity.in,Full Stack Developer,600000,1400000,800000,Akasa airlines,5,4,1200000,91,3.6,92,"Web Development, DevOps/Cloud Computing, Cyber Security"
+6/15/2026 9:55:42,2547241,r.karan@mca.christuniversity.in,Software Development Engineer (SDE),4,4,6,12,2,3,12,70,3.54,93,"AI/ML, Data Science/Analytics"
+6/15/2026 9:55:46,2547233,mohammedrehan.samir@mca.christuniversity.in,Machine Learning Engineer,7,12,8,synchron,3,4,12,75,3.67,98,AI/ML
+6/15/2026 9:56:02,2547213,angel.blessy@mca.christuniversity.in,Full Stack Developer,4,12,7,Adobe,5,3,10,74,3.4,94,"Web Development, Data Science/Analytics"
+6/15/2026 9:56:19,2547240,pranav.mr@mca.christuniversity.in,Cyber Security Analyst,6,12,6.5,Google,1,5,20,68,3.4,85,"DevOps/Cloud Computing, Cyber Security"
+6/15/2026 9:56:22,2547229,karun.nagaraj@mca.christuniversity.in,Software Development Engineer (SDE),4,12,6,Akasa Air,3,4,10,73,3.6,90,"Web Development, Data Science/Analytics"
+6/15/2026 9:56:26,2547234,namratha.r@mca.christuniversity.in,Software Development Engineer (SDE),3.5,13,7,Akasa Air,1,5,12,79,3.73,93,"AI/ML, Web Development, DevOps/Cloud Computing"
+6/15/2026 9:56:32,2547242,rahulmohan.gupta@mca.christuniversity.in,Machine Learning Engineer,12,20,16,20,4,4,12,72,3.54,95,"AI/ML, Data Science/Analytics"
+6/15/2026 9:56:39,2547224,evanjohn.mathew@mca.christuniversity.in,Cyber Security Analyst,6,6,6,12,4,4,8,80,3,95,"Web Development, Data Science/Analytics, Cyber Security"
+6/15/2026 9:57:04,2547243,rishi.raj@mca.christuniversity.in,Data Scientist,8,12,8,,4,4,10,78,3.32,95,"AI/ML, Data Science/Analytics"
+6/15/2026 9:57:04,2547247,sharon.mathew@mca.christuniversity.in,Software Development Engineer (SDE),4,12,8-9,Adobe and Akasa Air,3,3,10,7,8,85%,Data Science/Analytics
+6/15/2026 9:57:08,2547249,slavenderick.pais@mca.christuniversity.in,Data Scientist,4,12,7,Akasa Air,5,3,12,70,3.49,100,"AI/ML, Data Science/Analytics, Mobile App Development"
+6/15/2026 9:57:18,2547226,hanna.joshy@mca.christuniversity.in,Data Scientist,4,12,6,akas air,4,3,4,60,3,85,Data Science/Analytics
+6/15/2026 9:57:32,2547239,prajwal.kt@mca.christuniversity.in,Full Stack Developer,6,12,6,12,4,3,8,68,3.14,88,Web Development
+6/15/2026 9:58:14,2547220,dinu.george@mca.christuniversity.in,Full Stack Developer,3.5 LPA,12 LPA,7.5 LPA,CIBR,4,3,6 LPA,71 %,3.4,91 %,"AI/ML, Web Development, Data Science/Analytics"
+6/15/2026 9:58:19,2547222,emima.j@mca.christuniversity.in,Full Stack Developer,3.5,12,6.7,Akasa Air,3,3,8,64,3.11,100,Web Development
+6/15/2026 9:58:24,2547209,albin.thomas@mca.christuniversity.in,Cyber Security Analyst,3,12,5,Akasa Air,3,2,8 LPA,71.78,3.49,96.54,"Web Development, Cyber Security"
+6/15/2026 9:58:44,2547216,annette.elizabeth@mca.christuniversity.in,Full Stack Developer,3,12,6,adobe,,,,70,3.34,95,
+6/15/2026 9:59:02,2547256,xavier.amith@mca.christuniversity.in,Cloud Architect,4LPA ,8LPA,6LPA ,Cisco,4,3,10LPA,63,3.4,90,"Web Development, DevOps/Cloud Computing, Cyber Security"
+6/15/2026 9:59:05,2547250,sneha.varghese@mca.christuniversity.in,Software Development Engineer (SDE),4,12,7,Akasa Air,5,3,12,76%,3.69,95%,"AI/ML, Web Development, Data Science/Analytics, Mobile App Development"
+6/15/2026 9:59:11,2547245,sachin.kumar@mca.christuniversity.in,Software Development Engineer (SDE),4 LPA,12 LPA,6 LPA,Aakasa Air ,2,4,10 LPA,83%,3.9,98%,"AI/ML, Web Development, Data Science/Analytics, DevOps/Cloud Computing"
+6/15/2026 9:59:18,2547257,yash.barjatya@mca.christuniversity.in,Machine Learning Engineer,3+ lpa,13++lpa,5+lpa,akasa,3,3,8+lpa,80%,3.37,94.70%,"AI/ML, Data Science/Analytics"
+6/15/2026 9:59:22,2547255,vishwas.vashishtha@mca.christuniversity.in,Full Stack Developer,300000,1200000,800000,Adobe,5,5,1500000,72,3.55,93,"AI/ML, Web Development, Data Science/Analytics, DevOps/Cloud Computing, Cyber Security, Mobile App Development"
+6/15/2026 9:59:27,2547223,enrita.fernandes@mca.christuniversity.in,Full Stack Developer,4,12,6,Adobe,2,3,7,70,3.4,96,Web Development
+6/15/2026 9:59:31,2547232,mahamat.souleymane@mca.christuniversity.in,UX/UI Designer,4.5l,15l,6l,deshaw,5,5,100,70,3,93,Cyber Security
+6/15/2026 9:59:34,2547262,anushka.singh@mca.christuniversity.in,Consultant,4.5,12,6.2,Akasa Air,3,3,6,71,3.33,99,"AI/ML, Web Development, DevOps/Cloud Computing, Mobile App Development"
+6/15/2026 10:00:31,2547244,roy.mathew@mca.christuniversity.in,Cloud Architect,5,14,7,akasa airlines,1,3,7,77,3.3,90,"AI/ML, Web Development, Data Science/Analytics, DevOps/Cloud Computing, Cyber Security, Mobile App Development"
+6/15/2026 10:00:50,2547210,alok.tayal@mca.christuniversity.in,Cyber Security Analyst,3,12,6,Akasa,1,4,8,80,3.79,100,"Web Development, DevOps/Cloud Computing, Cyber Security"
+6/15/2026 10:01:02,2547218,vishnubk1312@gmail.com,Software Development Engineer (SDE),4.5,12,7,Akasa Air,3,4,20,80,3.12,92,"AI/ML, Web Development, Data Science/Analytics, DevOps/Cloud Computing"
+6/15/2026 10:02:08,2547221,ekta.singh@mca.christuniversity.in,Data Scientist,3,12,6,Akasa,3,4,8.5,80%,3.6,95%,"AI/ML, Data Science/Analytics"
+6/15/2026 10:02:42,2547208,alan.sojan@mca.christuniversity.in,Data Scientist,3.8,12,6.5,Akasa Air,4,3,7.5,70,3.4,94,"AI/ML, Web Development, Data Science/Analytics, DevOps/Cloud Computing, Cyber Security, Mobile App Development"
+6/15/2026 10:02:55,2547211,amogh.venkat@mca.christunibersity.in,Cyber Security Analyst,4.5 LPA,20,6,DE SHAW,4,4,12,85%,3.14,89%,"AI/ML, Web Development, Data Science/Analytics, Cyber Security"
+6/15/2026 10:03:19,2547261,Maniarasan J,Data Scientist,350000,1200000,700000,Akasa Air,4,4,700000,71,3.4,88,"AI/ML, Data Science/Analytics, DevOps/Cloud Computing, Cyber Security"
+6/15/2026 10:04:00,2547236,nirupama.vincent@mca.christuniversity.in,Full Stack Developer,3.5,12,6,Akasa air,3,3,9,68,3.4,97,"AI/ML, Web Development, Data Science/Analytics, Cyber Security, Mobile App Development"
+6/15/2026 10:04:32,2547201,aadharsh.krishnna@mca.christuniversity.in,UX/UI Designer,5,20,7,D.E Shaw,5,3,5,67,3.46,95,"Data Science/Analytics, Mobile App Development"
+6/15/2026 10:04:40,2547204,aimeesusan.joseph@mca.christuniversity.in,Data Scientist,4,12,3,Deloitte,3,3,-8,72,3.4,100,Data Science/Analytics
+6/15/2026 10:05:26,2547205,ajanya.vinayan@mca.christuniversity.in,Data Scientist,3.5 LPA,12 LPA,7 LPA,Adobe,4,3,5 LPA,65 %,3.3,89%,Data Science/Analytics
+6/15/2026 10:05:34,2547206,akashdeep.dey@mca.christuniversity.in,Full Stack Developer,4 LPA,12 LPA,8 LPA,Akasa Air,4,3,15 LPA,76,3.6,96,"Web Development, Data Science/Analytics, Mobile App Development"
+6/15/2026 10:11:46,2547246,saurabh.burnwal@mca.christuniversity.in,Machine Learning Engineer,4,14,5.5,Adobe,3,4,6,75.2,3.54,96,AI/ML
+6/15/2026 10:12:10,2547212,anaamika.ks@mca.christuniversity.in,Full Stack Developer,3.5 LPA,12 LPA,7 LPA,Akasa AIr,3,2,5 LPA,69.78,3.3,92,"Web Development, Cyber Security"
+6/15/2026 10:14:23,2547259,ananya.m@mca.christuniversity.in,Data Scientist,3.5LPA,12LPA,7LPA,Akasha Air,3,4,6LPA,71.11%,3.37,93%,"AI/ML, Data Science/Analytics"
+6/15/2026 10:14:42,2547230,kuheli.begum@mca.christuniversity.in,Machine Learning Engineer,3,12,5.5,akasha Air,3,3,6,79.56,3.6,95,"AI/ML, Web Development, Data Science/Analytics"
+6/15/2026 10:18:18,2547252,sudeepa.santhanam@mca.christuniversity.in,Full Stack Developer,4,12,8,Adobe and Akasa Air,5,3,15 LPA,75,3.66,95,Web Development
+6/15/2026 10:25:13,2547254,varun.singh@mca.christuniversity.in,Full Stack Developer,6,15,9,Cisco,1,3,8,70,3.69,97,"Web Development, DevOps/Cloud Computing"
+6/15/2026 11:01:20,2547260,mistryjamis.kiritikumar@mca.christuniversity.in,Data Scientist,8 LPA,12 LPA,10 LPA,Adobe,5,4,10 LPA,62%,3,97%,Data Science/Analytics
+6/15/2026 11:05:22,2547217,annie.neena@mca.christuniversity.in,Full Stack Developer,5-8,12,10,abobe ,5,5,8,66%,2.74,90,"Data Science/Analytics, Cyber Security"
+6/15/2026 11:06:20,2547238,paavan.gupta@mca.christuniversity.in,Software Development Engineer (SDE),4,15,8,De Shaw,4,4,12,63,3.13,94,"AI/ML, Web Development, Mobile App Development"
